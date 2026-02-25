@@ -70,3 +70,14 @@ grouped = (
 )
 
 st.dataframe(grouped)
+
+
+# ------------------------------------
+# BAR CHART - REVENUE BY REGION
+# ------------------------------------
+
+st.subheader("Revenue by Region - Bar Chart")
+
+st.bar_chart(
+    grouped.set_index("Region")["Revenue"]
+)
