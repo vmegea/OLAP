@@ -147,6 +147,31 @@ pivot_compare = compare_df.pivot(
     values="Revenue"
 )
 
-st.dataframe(pivot_compare)
+# ------------------------------------
+# GROWTH CALCULATION
+# ------------------------------------
 
-st.bar_chart(pivot_compare)
+if 2023 in pivot_compare.columns and 2024 in pivot_compare.columns:
+
+    pivot_compare["Growth %"] = (
+        (pivot_compare[2024] - pivot_compare[2023]) 
+        / pivot_compare[2023]
+    ) * 100
+
+    pivot_compare["Growth %"] = pivot_compare["Growth %"].round(2)
+
+    st.subheader("📈 Growth Percentage 2023 → 2024")
+
+    st.dataframe(
+        pivot_compare.style.format({
+            2023: "${:,.2f}",
+            2024: "${:,.2f}",
+            "Growth %": "{:+.2f}%"
+        })
+    )
+
+    st.bar_chart(pivot_compare[[2023, 2024]])
+
+else:
+    st.dataframe(pivot_compare)
+    st.bar_chart(pivot_compare)
