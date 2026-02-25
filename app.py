@@ -81,3 +81,32 @@ st.subheader("Revenue by Region - Bar Chart")
 st.bar_chart(
     grouped.set_index("Region")["Revenue"]
 )
+
+
+
+
+# ------------------------------------
+# DRILL DOWN - REGION TO COUNTRY
+# ------------------------------------
+
+st.subheader("Drill Down: Region → Country")
+
+selected_region = st.selectbox(
+    "Select Region for Drill Down",
+    grouped["Region"]
+)
+
+drill_df = filtered_df[filtered_df["Region"] == selected_region]
+
+country_grouped = (
+    drill_df
+    .groupby("Country")["Revenue"]
+    .sum()
+    .reset_index()
+)
+
+st.dataframe(country_grouped)
+
+st.bar_chart(
+    country_grouped.set_index("Country")["Revenue"]
+)
