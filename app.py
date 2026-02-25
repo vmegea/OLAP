@@ -110,3 +110,29 @@ st.dataframe(country_grouped)
 st.bar_chart(
     country_grouped.set_index("Country")["Revenue"]
 )
+
+
+
+
+# ------------------------------------
+# COMPARE 2023 vs 2024
+# ------------------------------------
+
+st.subheader("Compare Revenue: 2023 vs 2024")
+
+compare_df = (
+    df
+    .groupby(["Year", "Region"])["Revenue"]
+    .sum()
+    .reset_index()
+)
+
+pivot_compare = compare_df.pivot(
+    index="Region",
+    columns="Year",
+    values="Revenue"
+)
+
+st.dataframe(pivot_compare)
+
+st.bar_chart(pivot_compare)
