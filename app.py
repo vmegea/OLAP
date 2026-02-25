@@ -54,3 +54,19 @@ if selected_region_filter != "All":
 
 st.write("Filtered Rows:", filtered_df.shape[0])
 st.dataframe(filtered_df)
+
+
+# ------------------------------------
+# GROUP BY REGION - TOTAL REVENUE
+# ------------------------------------
+
+st.subheader("Total Revenue by Region")
+
+grouped = (
+    filtered_df
+    .groupby("Region")["Revenue"]
+    .sum()
+    .reset_index()
+)
+
+st.dataframe(grouped)
