@@ -175,3 +175,30 @@ if 2023 in pivot_compare.columns and 2024 in pivot_compare.columns:
 else:
     st.dataframe(pivot_compare)
     st.bar_chart(pivot_compare)
+
+
+
+# ------------------------------------
+# TOP 5 COUNTRIES BY REVENUE
+# ------------------------------------
+
+st.subheader("🌍 Top 5 Countries by Revenue")
+
+top5 = (
+    filtered_df
+    .groupby("Country")["Revenue"]
+    .sum()
+    .reset_index()
+    .sort_values(by="Revenue", ascending=False)
+    .head(5)
+)
+
+st.dataframe(
+    top5.style.format({
+        "Revenue": "${:,.2f}"
+    })
+)
+
+st.bar_chart(
+    top5.set_index("Country")["Revenue"]
+)
