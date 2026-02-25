@@ -55,7 +55,21 @@ if selected_region_filter != "All":
 st.write("Filtered Rows:", filtered_df.shape[0])
 st.dataframe(filtered_df)
 
+# ------------------------------------
+# KPI METRICS
+# ------------------------------------
 
+st.subheader("Key Metrics")
+
+total_revenue = filtered_df["Revenue"].sum()
+total_quantity = filtered_df["Quantity"].sum()
+total_transactions = filtered_df.shape[0]
+
+col1, col2, col3 = st.columns(3)
+
+col1.metric("Total Revenue", f"${total_revenue:,.2f}")
+col2.metric("Total Quantity Sold", f"{total_quantity:,}")
+col3.metric("Total Transactions", f"{total_transactions:,}")
 # ------------------------------------
 # GROUP BY REGION - TOTAL REVENUE
 # ------------------------------------
