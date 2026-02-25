@@ -1,3 +1,4 @@
+import plotly.express as px
 import streamlit as st
 import pandas as pd
 st.set_page_config(page_title="OLAP Retail Dashboard", layout="wide")
@@ -202,3 +203,35 @@ st.dataframe(
 st.bar_chart(
     top5.set_index("Country")["Revenue"]
 )
+
+
+
+# ------------------------------------
+# INTERACTIVE MONTHLY TREND (PLOTLY)
+# ------------------------------------
+
+st.subheader("📊 Monthly Revenue Trend (Interactive)")
+
+monthly_df = (
+    df
+    .groupby(["Year", "Month"])["Revenue"]
+    .sum()
+    .reset_index()
+)
+
+fig = px.line(
+    monthly_df,
+    x="Month",
+    y="Revenue",
+    color="Year",
+    markers=True,
+    title="Monthly Revenue Comparison"
+)
+
+fig.update_layout(
+    xaxis_title="Month",
+    yaxis_title="Revenue",
+    legend_title="Year"
+)
+
+st.plotly_chart(fig, use_container_width=True)
