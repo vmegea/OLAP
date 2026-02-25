@@ -1,0 +1,1001 @@
+Date,Year,Month,Region,Country,Category,Revenue,Quantity
+2024-03-04,2024,3,Africa,Nigeria,Electronics,3979.03,16
+2024-01-15,2024,1,Europe,Germany,Home,4110.7,14
+2023-04-02,2023,4,Europe,France,Clothing,3838.03,14
+2023-05-25,2023,5,North America,Mexico,Home,4592.76,8
+2023-02-21,2023,2,South America,Chile,Sports,3996.79,16
+2024-09-24,2024,9,North America,Canada,Clothing,2686.62,12
+2023-12-18,2023,12,Europe,Italy,Electronics,2669.59,15
+2024-07-15,2024,7,Asia,China,Clothing,890.58,19
+2023-12-15,2023,12,North America,Mexico,Sports,4689.99,19
+2024-12-25,2024,12,Asia,Japan,Electronics,3037.34,3
+2023-09-24,2023,9,Africa,Egypt,Sports,4788.95,14
+2024-05-14,2024,5,Africa,Nigeria,Electronics,256.82,11
+2023-01-26,2023,1,Asia,India,Clothing,1763.84,17
+2024-03-22,2024,3,Europe,France,Clothing,4336.82,5
+2024-05-10,2024,5,South America,Argentina,Electronics,1868.73,20
+2024-05-12,2024,5,South America,Argentina,Electronics,2429.02,1
+2024-12-20,2024,12,Africa,South Africa,Clothing,4188.16,6
+2024-02-18,2024,2,Africa,Nigeria,Home,4036.58,17
+2023-03-04,2023,3,Asia,Japan,Sports,3241.08,6
+2023-03-21,2023,3,North America,USA,Sports,4581.09,10
+2024-10-15,2024,10,Europe,Italy,Sports,2889.09,9
+2023-09-24,2023,9,South America,Brazil,Electronics,1106.9,2
+2024-03-14,2024,3,Asia,China,Sports,4321.87,5
+2023-01-01,2023,1,North America,USA,Sports,3239.32,12
+2024-01-13,2024,1,South America,Brazil,Home,4538.06,15
+2024-03-16,2024,3,South America,Argentina,Sports,1128.38,14
+2024-08-20,2024,8,Africa,South Africa,Electronics,4963.51,3
+2023-08-01,2023,8,Africa,South Africa,Electronics,4417.54,13
+2023-09-13,2023,9,Asia,Japan,Home,4708.44,9
+2023-07-12,2023,7,Europe,France,Clothing,1771.34,9
+2024-03-27,2024,3,North America,USA,Electronics,1147.68,19
+2024-06-10,2024,6,Europe,Germany,Sports,4170.73,6
+2023-10-01,2023,10,North America,Mexico,Sports,3102.28,16
+2024-10-27,2024,10,North America,Mexico,Clothing,2751.38,11
+2024-06-21,2024,6,Africa,South Africa,Clothing,265.01,5
+2024-11-26,2024,11,Africa,Nigeria,Sports,586.81,14
+2024-12-09,2024,12,Asia,Japan,Sports,145.08,4
+2024-04-26,2024,4,Africa,Egypt,Electronics,822.39,11
+2023-11-13,2023,11,Africa,Nigeria,Electronics,1782.51,8
+2023-10-10,2023,10,South America,Chile,Sports,4761.76,2
+2024-02-14,2024,2,North America,Mexico,Electronics,4329.72,20
+2024-10-26,2024,10,Africa,Nigeria,Home,4011.06,10
+2023-01-07,2023,1,North America,Mexico,Home,3670.17,11
+2024-03-20,2024,3,Africa,Egypt,Home,3131.03,10
+2024-05-12,2024,5,Europe,Germany,Clothing,2644.99,8
+2024-10-13,2024,10,North America,Canada,Electronics,2502.0,5
+2023-07-05,2023,7,Europe,France,Clothing,4326.48,1
+2024-10-21,2024,10,Africa,South Africa,Electronics,1350.5,13
+2023-10-20,2023,10,North America,Mexico,Electronics,2404.48,15
+2024-09-02,2024,9,Asia,Japan,Home,4126.0,15
+2023-08-14,2023,8,North America,Mexico,Electronics,4565.8,4
+2024-06-01,2024,6,South America,Argentina,Sports,4804.08,20
+2023-01-12,2023,1,Asia,China,Clothing,2709.25,10
+2023-03-21,2023,3,Africa,Nigeria,Home,590.99,8
+2024-10-27,2024,10,Asia,India,Sports,861.31,3
+2023-05-23,2023,5,Europe,France,Electronics,4029.15,12
+2023-02-19,2023,2,North America,Canada,Clothing,3862.97,14
+2023-12-02,2023,12,Africa,Egypt,Clothing,3552.45,19
+2023-07-12,2023,7,North America,Mexico,Home,2669.52,15
+2023-03-22,2023,3,Europe,France,Sports,4579.4,14
+2023-02-28,2023,2,North America,Mexico,Sports,4436.71,19
+2024-03-14,2024,3,South America,Brazil,Clothing,299.51,2
+2023-04-21,2023,4,North America,USA,Sports,4680.04,15
+2024-03-08,2024,3,Africa,Nigeria,Home,2731.08,1
+2023-03-08,2023,3,South America,Brazil,Sports,982.48,19
+2024-04-26,2024,4,South America,Brazil,Electronics,3240.22,4
+2024-06-27,2024,6,Europe,Italy,Electronics,3711.04,16
+2024-08-02,2024,8,South America,Chile,Home,3085.56,19
+2023-09-12,2023,9,Asia,Japan,Sports,2746.58,17
+2023-08-05,2023,8,South America,Argentina,Home,2179.25,13
+2024-05-15,2024,5,Europe,France,Sports,4688.93,16
+2024-08-15,2024,8,Africa,South Africa,Electronics,2108.61,13
+2023-01-19,2023,1,Europe,Germany,Home,2639.69,19
+2023-11-18,2023,11,North America,Mexico,Clothing,2564.59,12
+2024-05-25,2024,5,South America,Brazil,Electronics,1324.89,11
+2023-03-14,2023,3,Europe,France,Electronics,2878.36,20
+2023-12-22,2023,12,North America,Canada,Home,248.59,1
+2024-01-16,2024,1,Africa,Egypt,Sports,3135.29,17
+2023-08-08,2023,8,North America,Canada,Electronics,4627.36,10
+2024-05-05,2024,5,South America,Argentina,Electronics,1715.38,17
+2023-08-14,2023,8,North America,Canada,Electronics,4095.44,7
+2024-06-05,2024,6,Europe,France,Home,4923.55,19
+2023-07-13,2023,7,South America,Chile,Sports,127.92,7
+2023-04-09,2023,4,South America,Chile,Clothing,4555.6,7
+2023-01-16,2023,1,South America,Brazil,Clothing,3409.66,6
+2024-07-01,2024,7,North America,USA,Home,4604.32,16
+2023-12-11,2023,12,Asia,Japan,Sports,4667.38,17
+2024-10-24,2024,10,Asia,China,Home,1035.26,3
+2024-07-14,2024,7,Asia,China,Electronics,4842.53,4
+2024-08-15,2024,8,Africa,Egypt,Home,4916.9,10
+2024-03-23,2024,3,North America,USA,Electronics,1701.48,2
+2023-10-03,2023,10,South America,Chile,Home,2358.81,3
+2024-01-19,2024,1,Europe,Italy,Sports,3861.46,19
+2024-03-12,2024,3,North America,Canada,Home,4516.11,15
+2023-01-28,2023,1,South America,Chile,Clothing,129.19,18
+2023-05-22,2023,5,Europe,France,Clothing,274.33,19
+2023-12-27,2023,12,South America,Chile,Electronics,607.21,2
+2023-02-07,2023,2,Europe,Italy,Home,1366.53,6
+2024-03-22,2024,3,Europe,Italy,Clothing,2938.98,3
+2024-05-19,2024,5,Europe,France,Home,2462.9,19
+2024-04-02,2024,4,South America,Argentina,Electronics,2569.18,9
+2023-02-26,2023,2,Europe,France,Electronics,2975.21,18
+2024-07-25,2024,7,South America,Argentina,Clothing,2688.16,17
+2023-09-23,2023,9,Asia,India,Sports,3963.07,15
+2024-02-28,2024,2,Asia,Japan,Electronics,417.72,12
+2024-07-16,2024,7,Africa,Egypt,Home,494.41,5
+2024-10-27,2024,10,Africa,Nigeria,Home,2177.87,7
+2024-04-25,2024,4,Europe,France,Home,2759.3,18
+2024-10-04,2024,10,North America,USA,Home,4807.58,18
+2023-07-21,2023,7,South America,Argentina,Clothing,2253.77,19
+2023-12-19,2023,12,Asia,China,Home,1480.55,14
+2023-07-09,2023,7,North America,USA,Clothing,2338.12,12
+2023-06-06,2023,6,North America,Mexico,Home,2597.31,3
+2024-01-04,2024,1,Asia,Japan,Home,1803.78,8
+2024-10-07,2024,10,Africa,South Africa,Home,680.25,14
+2024-01-08,2024,1,Africa,South Africa,Sports,1048.33,11
+2023-11-21,2023,11,North America,Mexico,Clothing,238.96,6
+2024-01-19,2024,1,North America,Canada,Sports,3222.9,8
+2024-10-13,2024,10,Europe,France,Home,1790.76,3
+2024-06-15,2024,6,North America,Canada,Home,1286.85,15
+2023-02-26,2023,2,South America,Brazil,Clothing,625.98,19
+2023-04-06,2023,4,Asia,Japan,Sports,1378.1,11
+2023-06-08,2023,6,North America,Canada,Clothing,3341.43,4
+2024-03-23,2024,3,South America,Argentina,Clothing,692.0,12
+2023-02-06,2023,2,Europe,Italy,Sports,697.86,8
+2024-12-23,2024,12,North America,Canada,Sports,3534.32,4
+2024-09-15,2024,9,Asia,Japan,Home,1391.85,17
+2024-01-22,2024,1,Asia,China,Electronics,3789.11,7
+2023-07-05,2023,7,South America,Brazil,Electronics,334.43,1
+2023-03-03,2023,3,Asia,China,Electronics,4778.31,16
+2024-04-20,2024,4,Africa,Egypt,Clothing,4756.12,13
+2023-09-20,2023,9,South America,Chile,Sports,3501.9,4
+2024-01-12,2024,1,Europe,Germany,Home,2928.15,9
+2024-11-07,2024,11,Africa,South Africa,Clothing,4474.07,10
+2023-05-21,2023,5,Asia,Japan,Clothing,4491.39,17
+2024-04-14,2024,4,Asia,China,Sports,4087.72,6
+2024-08-12,2024,8,Asia,China,Home,1841.93,15
+2023-04-09,2023,4,North America,Mexico,Home,456.45,10
+2023-01-20,2023,1,Europe,Italy,Home,3183.25,6
+2023-11-26,2023,11,South America,Brazil,Electronics,4619.43,16
+2024-11-24,2024,11,South America,Chile,Home,3342.88,8
+2023-09-12,2023,9,South America,Argentina,Sports,1068.4,8
+2024-09-11,2024,9,Africa,Nigeria,Clothing,2131.57,4
+2024-02-28,2024,2,South America,Brazil,Electronics,1660.05,1
+2024-04-15,2024,4,Europe,Italy,Electronics,672.73,5
+2024-02-09,2024,2,South America,Chile,Sports,1880.33,12
+2024-12-04,2024,12,Asia,Japan,Sports,480.18,12
+2024-08-19,2024,8,Asia,China,Clothing,3099.33,13
+2023-01-11,2023,1,Africa,Nigeria,Electronics,4120.34,16
+2024-06-06,2024,6,South America,Chile,Sports,1635.14,11
+2023-05-09,2023,5,North America,Canada,Electronics,4792.23,18
+2024-12-03,2024,12,North America,Canada,Clothing,972.85,19
+2024-08-10,2024,8,Europe,Italy,Electronics,4506.35,7
+2024-05-02,2024,5,Europe,France,Clothing,201.03,12
+2023-08-11,2023,8,North America,Canada,Electronics,4981.09,18
+2024-01-22,2024,1,South America,Brazil,Home,3210.17,14
+2023-10-28,2023,10,Asia,India,Clothing,741.95,9
+2023-04-10,2023,4,Africa,South Africa,Clothing,1890.04,9
+2023-03-20,2023,3,Africa,Egypt,Electronics,1864.11,17
+2023-02-06,2023,2,Asia,India,Electronics,2589.29,17
+2023-06-06,2023,6,Europe,Italy,Home,2559.89,17
+2024-09-20,2024,9,North America,USA,Electronics,480.89,8
+2023-10-04,2023,10,North America,Mexico,Clothing,767.69,19
+2024-01-11,2024,1,Asia,China,Electronics,3635.38,9
+2023-11-09,2023,11,Asia,Japan,Sports,3015.1,11
+2024-03-26,2024,3,Asia,Japan,Electronics,4444.57,11
+2024-02-01,2024,2,Asia,China,Sports,4274.59,19
+2023-09-07,2023,9,Europe,Italy,Electronics,3600.53,6
+2024-08-07,2024,8,Africa,South Africa,Sports,2482.34,19
+2024-02-16,2024,2,Asia,India,Home,3992.12,4
+2024-10-14,2024,10,Europe,Italy,Sports,2583.07,3
+2024-09-20,2024,9,Africa,Nigeria,Electronics,1134.53,8
+2023-09-19,2023,9,Europe,France,Sports,4340.63,18
+2023-12-10,2023,12,Africa,Egypt,Clothing,4406.96,2
+2023-10-23,2023,10,South America,Brazil,Home,1446.23,10
+2024-02-20,2024,2,Africa,Nigeria,Electronics,3458.44,4
+2023-01-15,2023,1,South America,Chile,Clothing,2826.05,10
+2023-05-04,2023,5,North America,Canada,Clothing,512.29,4
+2024-07-19,2024,7,Asia,Japan,Sports,325.45,17
+2024-08-27,2024,8,Europe,France,Electronics,342.04,14
+2024-02-14,2024,2,Asia,Japan,Sports,1183.54,20
+2023-11-23,2023,11,Africa,Nigeria,Electronics,4456.06,8
+2023-10-22,2023,10,Africa,Nigeria,Sports,543.15,4
+2023-06-08,2023,6,Africa,Nigeria,Electronics,657.29,6
+2023-11-16,2023,11,North America,USA,Electronics,134.51,12
+2023-05-25,2023,5,South America,Brazil,Electronics,4288.93,10
+2024-06-02,2024,6,South America,Argentina,Clothing,4603.7,13
+2023-08-01,2023,8,Asia,China,Electronics,4179.44,18
+2024-06-06,2024,6,South America,Chile,Home,2419.11,11
+2024-07-13,2024,7,Europe,France,Electronics,3560.45,3
+2024-04-14,2024,4,Africa,Nigeria,Clothing,631.06,13
+2024-10-02,2024,10,North America,Canada,Electronics,871.41,12
+2024-07-14,2024,7,Europe,Germany,Home,2358.52,7
+2024-11-12,2024,11,Europe,Italy,Electronics,1284.92,4
+2024-09-12,2024,9,Europe,France,Sports,2678.67,12
+2023-09-06,2023,9,Europe,France,Clothing,3461.16,10
+2024-04-14,2024,4,North America,Canada,Sports,2489.17,20
+2023-09-20,2023,9,Africa,Egypt,Clothing,3638.23,1
+2023-06-16,2023,6,Europe,France,Home,3614.58,20
+2024-10-24,2024,10,North America,Mexico,Home,4861.11,14
+2024-03-27,2024,3,South America,Argentina,Clothing,4056.83,16
+2024-05-16,2024,5,Europe,Italy,Electronics,1259.96,20
+2023-02-14,2023,2,Europe,France,Home,3594.18,9
+2023-02-07,2023,2,Europe,France,Sports,3740.09,15
+2024-12-23,2024,12,Asia,Japan,Home,3906.03,7
+2023-05-23,2023,5,Africa,Nigeria,Home,1933.41,11
+2023-02-08,2023,2,North America,USA,Sports,4157.23,17
+2023-04-10,2023,4,Asia,Japan,Electronics,3781.37,11
+2023-04-28,2023,4,Europe,Italy,Home,2761.14,16
+2024-05-07,2024,5,South America,Chile,Sports,4660.49,13
+2024-12-12,2024,12,North America,Canada,Clothing,3701.92,18
+2024-05-17,2024,5,North America,Mexico,Electronics,2801.55,16
+2023-07-06,2023,7,North America,USA,Clothing,2741.65,15
+2024-02-08,2024,2,Asia,China,Home,1136.95,19
+2023-05-10,2023,5,South America,Brazil,Home,4920.79,17
+2023-06-04,2023,6,Asia,Japan,Sports,4441.97,20
+2023-11-11,2023,11,Africa,South Africa,Home,3516.43,19
+2024-11-13,2024,11,South America,Chile,Electronics,1947.71,15
+2024-02-05,2024,2,Africa,Egypt,Sports,3918.91,3
+2024-06-14,2024,6,Africa,Nigeria,Clothing,490.51,19
+2024-06-04,2024,6,Europe,Germany,Sports,3746.62,7
+2023-08-13,2023,8,North America,Canada,Sports,3289.16,16
+2023-11-10,2023,11,North America,USA,Clothing,4879.37,17
+2023-02-09,2023,2,Africa,Egypt,Sports,549.63,15
+2023-08-11,2023,8,North America,USA,Sports,336.63,5
+2023-07-25,2023,7,Asia,India,Clothing,2650.5,5
+2024-08-15,2024,8,South America,Chile,Sports,118.71,15
+2024-07-17,2024,7,Europe,Germany,Home,816.39,14
+2024-05-17,2024,5,South America,Argentina,Home,3245.33,6
+2023-07-20,2023,7,Europe,Italy,Home,262.42,7
+2023-02-21,2023,2,Asia,Japan,Clothing,4740.43,20
+2023-11-20,2023,11,North America,USA,Electronics,4077.42,12
+2024-10-08,2024,10,Asia,China,Electronics,3980.24,16
+2024-09-03,2024,9,Europe,France,Electronics,4354.75,20
+2023-01-04,2023,1,Africa,Egypt,Electronics,4447.96,1
+2023-05-13,2023,5,Africa,Egypt,Clothing,2441.14,2
+2023-10-26,2023,10,Africa,South Africa,Sports,402.64,13
+2023-05-25,2023,5,Europe,Italy,Electronics,2290.78,5
+2023-02-25,2023,2,Asia,China,Sports,2711.79,19
+2023-03-05,2023,3,South America,Brazil,Clothing,792.68,15
+2024-07-02,2024,7,Africa,Nigeria,Sports,2151.81,16
+2023-09-18,2023,9,Africa,South Africa,Electronics,1662.67,4
+2024-08-03,2024,8,Asia,India,Home,4302.62,20
+2024-04-09,2024,4,Africa,Nigeria,Home,3915.15,10
+2024-11-12,2024,11,Asia,Japan,Home,2831.57,19
+2024-04-07,2024,4,South America,Chile,Electronics,4014.5,17
+2024-06-03,2024,6,Asia,India,Clothing,127.6,20
+2024-10-12,2024,10,Africa,South Africa,Clothing,4857.28,2
+2023-08-03,2023,8,Africa,Egypt,Home,2725.23,20
+2023-06-04,2023,6,Africa,South Africa,Home,4117.74,20
+2024-08-02,2024,8,North America,Mexico,Clothing,2797.29,14
+2024-08-11,2024,8,North America,Canada,Home,2069.8,10
+2023-06-21,2023,6,Europe,France,Clothing,4079.6,12
+2024-01-11,2024,1,Asia,India,Clothing,242.38,9
+2024-04-12,2024,4,North America,Canada,Clothing,3952.95,19
+2024-06-26,2024,6,North America,Mexico,Electronics,2234.79,14
+2023-11-10,2023,11,Africa,Egypt,Home,1360.39,14
+2024-05-16,2024,5,South America,Brazil,Home,4975.57,15
+2023-08-27,2023,8,Africa,South Africa,Electronics,230.13,16
+2023-11-17,2023,11,Asia,Japan,Electronics,4811.18,13
+2024-09-11,2024,9,Asia,Japan,Sports,1073.41,13
+2024-11-10,2024,11,North America,Canada,Home,4499.91,3
+2024-12-06,2024,12,Africa,Egypt,Home,4140.39,20
+2023-05-02,2023,5,Europe,Italy,Sports,2099.73,4
+2023-12-04,2023,12,Asia,China,Home,2724.41,19
+2024-05-22,2024,5,Asia,Japan,Clothing,1548.54,8
+2023-08-18,2023,8,Africa,Egypt,Electronics,3769.39,12
+2024-12-15,2024,12,South America,Brazil,Home,1689.5,13
+2023-05-14,2023,5,North America,USA,Home,3021.62,8
+2023-02-08,2023,2,Africa,Egypt,Home,4226.34,18
+2023-12-07,2023,12,North America,Mexico,Home,2150.3,11
+2023-11-12,2023,11,Europe,Italy,Home,796.87,8
+2024-07-21,2024,7,Asia,India,Sports,865.67,5
+2024-11-13,2024,11,Europe,France,Sports,1920.58,14
+2023-08-14,2023,8,North America,Mexico,Home,2305.19,9
+2023-11-19,2023,11,North America,USA,Clothing,518.0,5
+2024-09-16,2024,9,South America,Brazil,Home,3573.71,9
+2024-07-18,2024,7,North America,Canada,Clothing,4932.24,19
+2023-04-20,2023,4,Asia,India,Electronics,1654.29,1
+2024-01-10,2024,1,Asia,China,Clothing,4331.99,19
+2024-02-18,2024,2,Asia,Japan,Home,2891.89,19
+2023-04-12,2023,4,South America,Chile,Home,416.9,15
+2023-10-09,2023,10,Asia,India,Sports,4300.42,15
+2023-11-12,2023,11,North America,Mexico,Home,4341.06,12
+2024-12-08,2024,12,South America,Argentina,Electronics,819.6,16
+2024-12-02,2024,12,North America,Mexico,Electronics,4292.74,18
+2023-01-28,2023,1,South America,Brazil,Electronics,1961.33,9
+2024-09-26,2024,9,Asia,India,Clothing,1504.23,14
+2023-06-27,2023,6,Africa,Egypt,Clothing,316.73,7
+2024-09-28,2024,9,South America,Chile,Sports,2479.58,8
+2023-09-28,2023,9,Africa,Egypt,Home,2210.35,8
+2024-05-22,2024,5,South America,Argentina,Electronics,2328.06,13
+2024-02-12,2024,2,South America,Chile,Electronics,3580.47,14
+2024-01-07,2024,1,Europe,Italy,Home,2301.47,12
+2023-10-11,2023,10,Asia,India,Sports,161.09,20
+2024-04-12,2024,4,Asia,China,Electronics,4360.46,13
+2023-05-23,2023,5,South America,Brazil,Home,1256.56,6
+2024-10-22,2024,10,South America,Argentina,Electronics,1757.88,15
+2024-04-05,2024,4,South America,Argentina,Electronics,509.2,2
+2023-01-06,2023,1,Europe,Germany,Electronics,3484.55,13
+2024-04-27,2024,4,Asia,Japan,Sports,2815.06,19
+2024-08-04,2024,8,Africa,Nigeria,Home,2495.13,15
+2024-07-10,2024,7,Africa,Egypt,Sports,2920.83,6
+2023-09-24,2023,9,Asia,China,Home,1026.39,17
+2024-04-12,2024,4,Africa,Nigeria,Clothing,444.74,11
+2024-06-19,2024,6,North America,Mexico,Home,3500.9,4
+2023-01-20,2023,1,Africa,South Africa,Clothing,3352.29,6
+2024-08-13,2024,8,North America,USA,Clothing,2364.65,17
+2024-06-17,2024,6,Europe,Italy,Home,3600.96,10
+2024-05-28,2024,5,Europe,Germany,Sports,1534.6,7
+2024-08-10,2024,8,South America,Chile,Sports,746.1,17
+2024-05-15,2024,5,North America,USA,Sports,4892.36,7
+2023-08-09,2023,8,Asia,Japan,Electronics,2427.24,2
+2023-02-01,2023,2,North America,Mexico,Sports,4956.08,19
+2024-03-22,2024,3,South America,Argentina,Electronics,1526.44,16
+2024-12-26,2024,12,North America,Mexico,Clothing,822.21,12
+2024-08-20,2024,8,Africa,Egypt,Clothing,2225.61,5
+2024-12-19,2024,12,Asia,India,Electronics,2929.6,17
+2024-09-10,2024,9,North America,USA,Home,3612.83,19
+2024-08-22,2024,8,Asia,Japan,Clothing,4340.59,16
+2023-04-11,2023,4,North America,Mexico,Home,3747.09,1
+2023-05-08,2023,5,South America,Chile,Sports,867.22,1
+2023-09-17,2023,9,Europe,France,Electronics,2196.94,7
+2024-04-21,2024,4,North America,Mexico,Electronics,401.02,12
+2023-01-07,2023,1,Africa,Nigeria,Home,418.9,2
+2024-07-27,2024,7,Asia,India,Electronics,886.21,19
+2024-10-11,2024,10,North America,Canada,Sports,4659.39,12
+2024-08-25,2024,8,Asia,Japan,Sports,4879.36,5
+2023-04-11,2023,4,Asia,China,Clothing,3873.01,11
+2023-07-28,2023,7,Asia,Japan,Electronics,3740.71,15
+2023-07-11,2023,7,North America,USA,Home,873.16,7
+2023-04-23,2023,4,South America,Chile,Clothing,798.32,10
+2023-01-18,2023,1,Africa,Egypt,Clothing,1026.72,18
+2023-11-01,2023,11,Asia,India,Sports,1444.23,4
+2023-10-23,2023,10,Europe,Italy,Home,3230.72,3
+2023-04-25,2023,4,Asia,China,Sports,3049.96,11
+2023-11-14,2023,11,South America,Brazil,Clothing,554.57,6
+2023-08-25,2023,8,South America,Brazil,Sports,2796.88,13
+2023-05-08,2023,5,North America,Mexico,Sports,1447.22,18
+2024-05-09,2024,5,South America,Chile,Clothing,4130.13,8
+2024-10-01,2024,10,Europe,Germany,Home,3804.3,12
+2024-01-19,2024,1,Asia,China,Electronics,2583.66,15
+2023-07-20,2023,7,North America,Mexico,Home,1667.51,18
+2024-05-01,2024,5,Europe,Germany,Electronics,2893.96,1
+2024-06-12,2024,6,Asia,Japan,Sports,3196.35,13
+2024-05-22,2024,5,South America,Chile,Sports,2000.87,2
+2023-10-03,2023,10,South America,Chile,Electronics,3966.58,10
+2023-04-08,2023,4,Asia,India,Home,3954.39,8
+2023-09-26,2023,9,Africa,Nigeria,Electronics,2967.96,4
+2024-06-16,2024,6,South America,Brazil,Home,4424.45,5
+2024-12-25,2024,12,Europe,France,Sports,1767.65,6
+2024-10-13,2024,10,Europe,Italy,Sports,2429.36,6
+2024-04-13,2024,4,South America,Argentina,Home,1340.66,16
+2024-06-10,2024,6,North America,USA,Electronics,113.31,8
+2024-05-04,2024,5,Africa,Nigeria,Home,3930.27,8
+2024-07-10,2024,7,North America,USA,Clothing,4133.11,20
+2023-03-01,2023,3,Asia,India,Sports,719.04,7
+2023-09-24,2023,9,South America,Brazil,Electronics,4840.52,16
+2024-05-13,2024,5,Asia,India,Clothing,2786.55,19
+2024-11-17,2024,11,Europe,Italy,Electronics,1943.88,11
+2024-11-26,2024,11,Africa,Nigeria,Electronics,3778.62,4
+2024-01-26,2024,1,Europe,Italy,Clothing,3991.15,9
+2024-01-06,2024,1,Asia,China,Sports,3990.94,13
+2024-12-02,2024,12,Africa,Egypt,Clothing,915.73,2
+2024-01-19,2024,1,Europe,France,Home,4132.16,1
+2024-06-08,2024,6,South America,Brazil,Clothing,1931.39,18
+2024-11-03,2024,11,Europe,Germany,Electronics,625.37,11
+2023-02-04,2023,2,Africa,Egypt,Home,1327.76,10
+2024-08-05,2024,8,North America,Mexico,Home,680.87,12
+2024-03-11,2024,3,Europe,Germany,Electronics,1738.82,5
+2024-01-15,2024,1,Europe,Italy,Electronics,894.82,11
+2024-04-05,2024,4,Africa,Nigeria,Home,3678.66,9
+2024-02-06,2024,2,North America,Canada,Clothing,2396.96,3
+2023-09-07,2023,9,Asia,China,Electronics,2278.29,11
+2024-01-24,2024,1,Asia,Japan,Home,3204.05,2
+2023-05-14,2023,5,Africa,Egypt,Clothing,1602.36,15
+2023-05-06,2023,5,Europe,France,Electronics,587.42,4
+2023-05-17,2023,5,Africa,Egypt,Electronics,1410.56,7
+2023-02-05,2023,2,South America,Chile,Home,4466.94,3
+2024-02-24,2024,2,Africa,Nigeria,Clothing,506.41,1
+2024-06-23,2024,6,South America,Argentina,Electronics,3903.9,17
+2024-04-06,2024,4,North America,Mexico,Home,2268.69,16
+2023-10-21,2023,10,North America,USA,Clothing,439.34,15
+2023-04-11,2023,4,North America,Mexico,Electronics,4712.48,14
+2023-09-14,2023,9,South America,Argentina,Electronics,248.1,10
+2024-02-13,2024,2,Asia,Japan,Electronics,976.07,19
+2024-05-09,2024,5,Europe,France,Electronics,4202.07,11
+2023-11-02,2023,11,North America,USA,Home,2143.28,6
+2023-08-01,2023,8,North America,Canada,Electronics,4652.37,9
+2023-12-27,2023,12,North America,USA,Home,4253.94,10
+2023-08-13,2023,8,South America,Argentina,Clothing,2734.46,3
+2024-07-25,2024,7,North America,Canada,Sports,1811.82,13
+2023-08-22,2023,8,North America,USA,Electronics,2380.08,16
+2023-04-23,2023,4,South America,Argentina,Clothing,4644.67,5
+2024-08-18,2024,8,Africa,South Africa,Electronics,4576.7,6
+2024-06-24,2024,6,Europe,France,Clothing,4185.11,13
+2023-11-01,2023,11,South America,Brazil,Home,1212.6,2
+2023-12-28,2023,12,South America,Chile,Electronics,3764.56,10
+2024-06-06,2024,6,South America,Brazil,Home,2681.82,14
+2023-10-12,2023,10,South America,Brazil,Sports,2479.87,20
+2023-12-22,2023,12,South America,Chile,Home,2156.22,14
+2024-02-20,2024,2,Africa,Egypt,Home,3179.85,19
+2024-03-15,2024,3,Africa,Egypt,Electronics,1191.24,20
+2024-05-26,2024,5,Europe,Germany,Clothing,1421.37,2
+2024-12-24,2024,12,Africa,Nigeria,Home,3966.39,12
+2024-03-09,2024,3,Africa,Nigeria,Clothing,2078.61,12
+2024-08-13,2024,8,Asia,Japan,Clothing,3279.85,6
+2024-03-24,2024,3,Africa,South Africa,Home,1996.89,11
+2023-10-09,2023,10,Africa,South Africa,Sports,844.2,6
+2023-07-22,2023,7,Asia,China,Sports,531.37,16
+2023-12-14,2023,12,Europe,France,Home,2661.28,4
+2023-10-09,2023,10,Europe,Italy,Sports,152.95,17
+2023-09-15,2023,9,South America,Argentina,Home,1891.72,14
+2023-05-15,2023,5,North America,Canada,Electronics,4553.91,13
+2023-12-18,2023,12,South America,Chile,Home,4430.0,13
+2023-02-12,2023,2,Asia,India,Home,575.94,3
+2023-11-12,2023,11,Africa,Egypt,Home,281.04,7
+2023-08-20,2023,8,Asia,Japan,Sports,3718.75,11
+2023-09-23,2023,9,North America,USA,Clothing,1128.38,18
+2023-07-07,2023,7,South America,Brazil,Electronics,4468.21,18
+2024-12-22,2024,12,Asia,China,Electronics,243.84,7
+2023-06-07,2023,6,Africa,Egypt,Electronics,2974.58,9
+2023-01-16,2023,1,Asia,Japan,Home,3927.72,11
+2023-09-20,2023,9,Europe,Italy,Clothing,3985.19,15
+2023-11-15,2023,11,Europe,France,Sports,2058.49,2
+2024-04-04,2024,4,Africa,Egypt,Electronics,747.71,12
+2024-04-25,2024,4,North America,Mexico,Clothing,2868.62,20
+2023-06-14,2023,6,Asia,Japan,Clothing,4042.39,8
+2024-02-09,2024,2,North America,Canada,Home,1358.81,13
+2024-11-17,2024,11,Asia,China,Home,4559.88,4
+2023-05-01,2023,5,Europe,France,Home,1665.91,13
+2023-10-04,2023,10,Europe,France,Clothing,2288.42,20
+2024-03-23,2024,3,Europe,Germany,Sports,379.2,8
+2023-04-17,2023,4,Africa,South Africa,Clothing,3789.03,13
+2023-02-14,2023,2,North America,USA,Clothing,4746.34,6
+2023-10-12,2023,10,North America,USA,Sports,3338.07,1
+2023-12-06,2023,12,Asia,China,Sports,1163.61,15
+2024-01-20,2024,1,Asia,India,Electronics,546.04,18
+2023-05-05,2023,5,Europe,Germany,Clothing,1942.35,9
+2023-10-23,2023,10,North America,Canada,Electronics,1256.91,5
+2023-05-02,2023,5,North America,Canada,Sports,944.59,3
+2023-08-04,2023,8,North America,USA,Sports,4866.88,10
+2024-02-05,2024,2,Asia,India,Electronics,3425.79,13
+2023-01-16,2023,1,Asia,India,Clothing,4458.44,2
+2023-05-09,2023,5,Asia,China,Electronics,3880.68,11
+2024-02-07,2024,2,Europe,Germany,Home,2633.08,19
+2024-08-12,2024,8,South America,Argentina,Clothing,2769.34,7
+2023-06-11,2023,6,Asia,China,Clothing,2487.46,11
+2024-01-12,2024,1,Europe,France,Home,1835.26,16
+2024-12-05,2024,12,South America,Brazil,Sports,1076.05,7
+2024-06-04,2024,6,North America,Mexico,Electronics,2674.15,10
+2024-03-14,2024,3,South America,Chile,Electronics,2110.81,20
+2023-10-19,2023,10,Europe,Italy,Home,1128.35,11
+2023-06-18,2023,6,North America,USA,Sports,4921.29,14
+2023-06-17,2023,6,Africa,Egypt,Clothing,4551.55,20
+2024-09-11,2024,9,Europe,Germany,Clothing,2582.1,7
+2024-12-10,2024,12,North America,Mexico,Sports,4607.61,7
+2023-06-05,2023,6,Europe,France,Home,2768.03,13
+2024-12-19,2024,12,Asia,India,Clothing,2968.74,1
+2023-06-09,2023,6,Asia,India,Clothing,4447.98,4
+2023-02-10,2023,2,South America,Argentina,Clothing,1226.98,20
+2023-04-19,2023,4,North America,USA,Clothing,3188.07,10
+2024-03-14,2024,3,Africa,South Africa,Electronics,935.86,15
+2023-06-04,2023,6,North America,USA,Clothing,4912.17,18
+2023-09-15,2023,9,Africa,South Africa,Electronics,3916.58,13
+2023-04-19,2023,4,Africa,South Africa,Sports,2569.08,7
+2023-08-09,2023,8,South America,Argentina,Sports,3411.33,3
+2024-03-12,2024,3,North America,Mexico,Electronics,1301.75,16
+2024-10-02,2024,10,North America,USA,Home,2398.26,18
+2024-07-13,2024,7,Europe,France,Sports,1319.99,19
+2024-06-05,2024,6,Africa,South Africa,Clothing,318.49,14
+2023-03-21,2023,3,Asia,Japan,Home,4639.59,14
+2024-04-01,2024,4,North America,Canada,Electronics,1406.28,5
+2024-06-10,2024,6,South America,Chile,Home,4490.26,13
+2023-02-01,2023,2,South America,Argentina,Sports,4893.68,4
+2024-03-01,2024,3,Africa,Nigeria,Home,4431.76,13
+2023-02-20,2023,2,South America,Argentina,Clothing,741.1,18
+2023-04-18,2023,4,Asia,China,Home,3598.33,6
+2023-06-27,2023,6,Europe,Germany,Sports,3940.6,19
+2023-04-04,2023,4,Africa,Nigeria,Sports,1413.24,20
+2024-10-07,2024,10,North America,Canada,Clothing,4553.35,18
+2024-02-18,2024,2,Europe,France,Home,243.87,19
+2023-08-03,2023,8,North America,Canada,Clothing,2468.38,7
+2024-08-03,2024,8,Africa,Egypt,Sports,620.06,8
+2024-01-25,2024,1,South America,Argentina,Home,2961.66,18
+2024-08-24,2024,8,Asia,Japan,Home,2422.01,4
+2024-08-16,2024,8,Asia,China,Electronics,3732.99,18
+2024-08-13,2024,8,Europe,Germany,Clothing,1383.18,9
+2024-07-16,2024,7,Africa,Nigeria,Electronics,4979.42,4
+2023-02-23,2023,2,Asia,China,Sports,1375.18,10
+2023-02-04,2023,2,Asia,Japan,Sports,588.44,11
+2023-03-16,2023,3,South America,Argentina,Home,4287.03,8
+2023-02-18,2023,2,Asia,India,Home,4149.66,17
+2024-01-08,2024,1,Europe,Italy,Sports,1776.62,17
+2023-09-06,2023,9,Africa,Nigeria,Sports,1552.51,18
+2023-05-14,2023,5,Europe,Germany,Home,1640.69,13
+2023-04-28,2023,4,Europe,Italy,Clothing,573.19,6
+2024-06-09,2024,6,Europe,France,Sports,4681.45,9
+2023-02-08,2023,2,Europe,Germany,Home,3834.18,18
+2023-04-12,2023,4,Asia,China,Clothing,4312.7,2
+2023-11-20,2023,11,South America,Argentina,Home,808.85,4
+2024-09-13,2024,9,Africa,Nigeria,Clothing,3411.48,5
+2023-09-01,2023,9,Europe,Germany,Electronics,4482.16,13
+2024-03-16,2024,3,North America,Canada,Sports,4925.62,11
+2024-02-02,2024,2,Asia,China,Home,2007.21,14
+2023-07-12,2023,7,South America,Chile,Clothing,1067.37,9
+2023-03-27,2023,3,Asia,India,Electronics,4376.23,10
+2024-02-03,2024,2,Europe,France,Home,540.22,6
+2023-03-20,2023,3,Asia,Japan,Clothing,3639.71,4
+2024-11-25,2024,11,South America,Brazil,Electronics,1613.87,17
+2023-01-25,2023,1,Africa,South Africa,Electronics,3628.36,15
+2023-12-10,2023,12,Asia,China,Electronics,443.31,19
+2023-05-19,2023,5,Africa,Nigeria,Sports,265.48,18
+2024-12-19,2024,12,Europe,Italy,Sports,1621.51,17
+2023-07-20,2023,7,South America,Argentina,Sports,3807.36,19
+2023-12-12,2023,12,Asia,India,Electronics,1400.94,6
+2023-08-06,2023,8,North America,USA,Clothing,4190.41,17
+2024-09-26,2024,9,Asia,Japan,Sports,4602.83,10
+2023-06-24,2023,6,North America,USA,Home,797.77,18
+2024-01-20,2024,1,North America,USA,Clothing,3665.41,10
+2023-06-26,2023,6,Asia,China,Sports,915.82,18
+2024-05-17,2024,5,Africa,Egypt,Electronics,4102.16,11
+2023-01-15,2023,1,North America,Canada,Sports,297.12,18
+2024-04-25,2024,4,North America,Canada,Clothing,3173.16,15
+2024-07-18,2024,7,Africa,Egypt,Sports,2452.69,15
+2023-04-25,2023,4,Asia,India,Clothing,2813.62,4
+2024-06-25,2024,6,North America,USA,Clothing,465.14,18
+2023-06-18,2023,6,Europe,France,Electronics,3652.15,12
+2023-01-08,2023,1,Africa,Egypt,Clothing,4982.8,12
+2023-11-03,2023,11,South America,Brazil,Home,3132.71,5
+2023-08-19,2023,8,South America,Brazil,Sports,3031.59,9
+2023-08-22,2023,8,Europe,France,Sports,3939.89,16
+2023-02-18,2023,2,South America,Chile,Sports,2280.27,11
+2023-05-20,2023,5,South America,Chile,Sports,4652.84,12
+2024-03-26,2024,3,Asia,Japan,Home,938.28,3
+2023-10-23,2023,10,South America,Brazil,Sports,1893.47,17
+2023-03-28,2023,3,Asia,India,Sports,2946.88,6
+2024-04-15,2024,4,North America,USA,Sports,4671.08,15
+2024-10-10,2024,10,South America,Argentina,Sports,3463.75,13
+2023-09-17,2023,9,Africa,Egypt,Clothing,2084.1,8
+2024-05-26,2024,5,North America,USA,Sports,2111.48,16
+2023-03-24,2023,3,South America,Chile,Clothing,3272.85,16
+2023-07-17,2023,7,Europe,France,Clothing,3679.73,9
+2023-12-13,2023,12,South America,Argentina,Sports,4198.29,1
+2024-11-23,2024,11,North America,Canada,Clothing,1255.29,17
+2024-01-20,2024,1,Europe,Italy,Sports,3882.45,11
+2024-06-15,2024,6,Europe,Italy,Sports,1728.77,4
+2023-03-01,2023,3,South America,Brazil,Electronics,4832.91,12
+2024-09-18,2024,9,Africa,South Africa,Sports,4809.62,6
+2024-12-05,2024,12,North America,USA,Sports,3224.11,1
+2024-10-19,2024,10,Europe,France,Sports,1704.77,2
+2023-04-21,2023,4,Asia,India,Home,1195.55,6
+2023-01-08,2023,1,Europe,France,Clothing,3935.76,18
+2024-09-06,2024,9,Asia,Japan,Sports,3401.02,1
+2024-06-17,2024,6,Africa,Egypt,Home,2452.93,11
+2024-05-27,2024,5,Africa,Nigeria,Clothing,3326.46,13
+2024-03-26,2024,3,North America,Canada,Clothing,2979.88,19
+2024-03-21,2024,3,Africa,South Africa,Home,4486.13,9
+2023-05-09,2023,5,Asia,India,Electronics,2772.26,17
+2023-01-21,2023,1,South America,Brazil,Electronics,3335.46,11
+2024-09-23,2024,9,North America,Canada,Electronics,3566.92,14
+2024-04-05,2024,4,Africa,Nigeria,Home,2644.75,4
+2023-06-07,2023,6,South America,Argentina,Home,3790.21,11
+2023-05-14,2023,5,North America,Canada,Clothing,3560.46,20
+2024-08-21,2024,8,North America,Canada,Electronics,3400.8,2
+2024-09-21,2024,9,Europe,Italy,Electronics,1015.23,13
+2023-04-07,2023,4,Africa,Nigeria,Electronics,2423.9,20
+2023-01-26,2023,1,Asia,Japan,Sports,1448.9,10
+2023-01-12,2023,1,Africa,South Africa,Electronics,1974.71,3
+2023-07-11,2023,7,Europe,France,Sports,3776.95,17
+2023-09-27,2023,9,South America,Brazil,Home,3395.31,6
+2023-03-12,2023,3,North America,Canada,Electronics,818.77,11
+2023-01-11,2023,1,Asia,India,Home,933.56,10
+2024-01-05,2024,1,Europe,Germany,Home,2796.82,11
+2023-05-28,2023,5,North America,Mexico,Home,3066.86,9
+2024-07-13,2024,7,South America,Argentina,Electronics,1787.46,7
+2023-10-12,2023,10,Africa,Egypt,Electronics,1545.26,11
+2024-04-16,2024,4,Africa,Egypt,Home,2817.32,19
+2023-11-22,2023,11,Asia,China,Sports,2169.68,15
+2023-01-24,2023,1,Africa,Egypt,Home,850.46,15
+2024-08-11,2024,8,South America,Argentina,Sports,1914.84,9
+2023-12-22,2023,12,North America,USA,Sports,528.8,13
+2024-02-17,2024,2,Africa,Egypt,Home,511.39,4
+2023-10-03,2023,10,South America,Argentina,Clothing,3237.36,6
+2023-06-17,2023,6,South America,Brazil,Clothing,374.05,14
+2024-10-01,2024,10,Africa,Egypt,Home,2690.29,2
+2023-08-19,2023,8,South America,Argentina,Sports,4272.35,11
+2024-05-16,2024,5,North America,USA,Home,808.92,4
+2023-11-18,2023,11,Africa,Egypt,Electronics,307.47,18
+2023-06-09,2023,6,North America,USA,Clothing,2566.96,1
+2023-10-28,2023,10,Asia,China,Home,4317.87,11
+2024-05-14,2024,5,Asia,Japan,Sports,3399.66,3
+2023-11-25,2023,11,Asia,Japan,Sports,4671.06,5
+2024-01-16,2024,1,Africa,Nigeria,Home,4043.1,8
+2024-12-16,2024,12,Asia,China,Clothing,1334.69,10
+2023-02-15,2023,2,Europe,France,Sports,3168.33,7
+2024-12-19,2024,12,Asia,Japan,Clothing,2808.53,5
+2024-01-01,2024,1,Africa,South Africa,Electronics,1767.54,15
+2023-10-11,2023,10,South America,Chile,Clothing,3422.96,10
+2024-08-11,2024,8,Asia,China,Sports,2775.41,1
+2024-04-18,2024,4,South America,Chile,Home,4402.4,14
+2024-01-06,2024,1,North America,Canada,Clothing,336.69,12
+2023-05-12,2023,5,South America,Argentina,Home,111.93,4
+2023-05-14,2023,5,North America,Mexico,Electronics,1332.5,5
+2023-12-02,2023,12,North America,USA,Sports,1858.02,1
+2024-12-24,2024,12,Africa,Nigeria,Clothing,1618.94,2
+2023-02-06,2023,2,South America,Chile,Clothing,997.99,6
+2024-08-25,2024,8,Africa,Nigeria,Sports,4764.76,12
+2024-11-24,2024,11,Asia,China,Electronics,2762.57,2
+2023-05-08,2023,5,Asia,China,Clothing,794.59,19
+2024-05-10,2024,5,Africa,South Africa,Clothing,2439.04,1
+2023-02-07,2023,2,South America,Chile,Home,3227.51,10
+2023-04-27,2023,4,North America,Mexico,Sports,4307.99,3
+2023-11-08,2023,11,Africa,South Africa,Sports,3924.26,5
+2024-01-10,2024,1,Asia,India,Clothing,953.99,1
+2024-03-26,2024,3,South America,Chile,Home,3465.64,1
+2024-04-06,2024,4,South America,Chile,Home,2933.09,2
+2023-09-01,2023,9,South America,Brazil,Home,2335.05,5
+2023-07-07,2023,7,South America,Chile,Home,4958.18,18
+2024-06-13,2024,6,Africa,Nigeria,Electronics,2053.62,3
+2024-04-17,2024,4,North America,Canada,Sports,701.97,20
+2024-08-05,2024,8,North America,Canada,Clothing,3061.8,3
+2023-06-27,2023,6,South America,Argentina,Sports,997.82,5
+2024-11-01,2024,11,Africa,South Africa,Sports,1548.15,20
+2024-08-18,2024,8,North America,Mexico,Clothing,1513.11,1
+2024-04-13,2024,4,Asia,India,Clothing,4442.41,5
+2024-02-16,2024,2,North America,Canada,Sports,4830.92,19
+2024-06-10,2024,6,Europe,France,Home,1139.39,17
+2023-01-05,2023,1,Africa,Egypt,Sports,3729.39,7
+2023-06-03,2023,6,Europe,Germany,Electronics,970.22,17
+2024-01-02,2024,1,Europe,Germany,Sports,544.11,10
+2024-01-08,2024,1,North America,USA,Sports,1973.31,9
+2024-06-10,2024,6,Africa,Egypt,Electronics,4082.25,6
+2023-01-15,2023,1,Asia,India,Clothing,1272.94,5
+2024-03-21,2024,3,Asia,China,Electronics,1892.95,16
+2023-09-04,2023,9,Europe,France,Clothing,4821.18,5
+2023-03-15,2023,3,South America,Brazil,Clothing,566.38,18
+2024-05-25,2024,5,South America,Brazil,Home,498.42,7
+2023-01-10,2023,1,South America,Brazil,Clothing,2145.92,6
+2023-02-10,2023,2,South America,Brazil,Electronics,4589.17,11
+2024-02-13,2024,2,South America,Argentina,Clothing,3583.32,1
+2023-01-07,2023,1,North America,Mexico,Clothing,4444.29,16
+2023-02-06,2023,2,North America,Mexico,Home,4560.34,11
+2024-11-01,2024,11,Africa,Nigeria,Home,1261.0,5
+2024-05-12,2024,5,Asia,China,Clothing,3781.71,15
+2024-06-13,2024,6,Asia,Japan,Clothing,2055.92,3
+2023-06-17,2023,6,Africa,Nigeria,Sports,2010.35,3
+2024-08-03,2024,8,Asia,China,Electronics,2479.34,3
+2024-07-20,2024,7,Africa,South Africa,Electronics,3637.85,6
+2023-01-12,2023,1,Africa,Egypt,Home,3583.98,20
+2023-01-10,2023,1,Africa,Egypt,Sports,1501.68,2
+2023-09-14,2023,9,Europe,Germany,Home,4495.83,17
+2024-09-04,2024,9,Asia,Japan,Sports,574.82,7
+2023-03-10,2023,3,South America,Argentina,Clothing,2695.1,9
+2023-10-08,2023,10,Africa,South Africa,Sports,1456.72,17
+2023-04-27,2023,4,North America,Mexico,Home,3974.53,19
+2023-02-03,2023,2,Asia,China,Sports,2625.38,13
+2023-06-04,2023,6,North America,Mexico,Clothing,1348.15,9
+2024-11-20,2024,11,North America,USA,Sports,3441.76,10
+2023-04-28,2023,4,Asia,India,Home,4898.87,12
+2024-11-21,2024,11,Africa,Egypt,Electronics,813.28,18
+2023-03-09,2023,3,Europe,France,Clothing,1555.52,6
+2023-02-08,2023,2,Europe,Germany,Clothing,4329.49,18
+2024-04-06,2024,4,South America,Chile,Sports,397.08,20
+2024-01-01,2024,1,Africa,South Africa,Clothing,2743.35,1
+2024-03-18,2024,3,Asia,China,Sports,2288.91,11
+2023-07-17,2023,7,Europe,Germany,Electronics,1522.75,15
+2023-01-25,2023,1,Asia,China,Clothing,2378.31,19
+2024-05-07,2024,5,North America,USA,Sports,1414.75,4
+2024-08-20,2024,8,North America,Mexico,Clothing,1308.7,5
+2023-08-20,2023,8,Europe,Italy,Electronics,1552.91,6
+2024-06-19,2024,6,North America,Mexico,Sports,223.42,6
+2024-07-20,2024,7,Asia,Japan,Home,3392.98,18
+2024-10-18,2024,10,North America,Mexico,Clothing,4568.81,4
+2024-11-26,2024,11,South America,Chile,Clothing,1540.23,15
+2023-07-07,2023,7,Africa,Egypt,Sports,3657.79,16
+2023-09-02,2023,9,Africa,South Africa,Sports,2559.41,13
+2024-01-01,2024,1,South America,Brazil,Sports,745.53,2
+2023-04-14,2023,4,Europe,Germany,Home,3649.06,9
+2024-09-13,2024,9,North America,Mexico,Home,1455.35,17
+2024-02-18,2024,2,Europe,France,Sports,2451.62,20
+2024-02-21,2024,2,North America,Canada,Electronics,1392.96,9
+2023-05-24,2023,5,South America,Argentina,Home,1213.06,5
+2024-05-15,2024,5,North America,Canada,Sports,2634.66,5
+2024-07-12,2024,7,Asia,Japan,Home,4492.11,17
+2023-09-02,2023,9,Europe,Germany,Electronics,1857.59,5
+2023-05-15,2023,5,Africa,Egypt,Clothing,1826.33,9
+2024-03-01,2024,3,Africa,Nigeria,Clothing,2432.99,10
+2023-10-14,2023,10,South America,Argentina,Home,436.67,5
+2023-10-12,2023,10,North America,Mexico,Electronics,2319.39,3
+2024-02-03,2024,2,South America,Brazil,Clothing,4124.73,7
+2023-02-05,2023,2,Europe,Italy,Home,161.51,6
+2024-12-28,2024,12,Asia,India,Home,3877.02,19
+2023-04-17,2023,4,Asia,India,Sports,870.15,18
+2024-12-16,2024,12,Europe,Germany,Home,130.68,17
+2024-03-15,2024,3,North America,USA,Home,3700.16,19
+2023-04-08,2023,4,Africa,Nigeria,Clothing,4018.25,2
+2024-10-09,2024,10,Asia,India,Home,2363.54,4
+2024-02-07,2024,2,South America,Brazil,Sports,4597.7,17
+2023-08-23,2023,8,Africa,Egypt,Clothing,2581.76,9
+2023-05-05,2023,5,South America,Chile,Clothing,3087.71,7
+2024-12-15,2024,12,Asia,India,Clothing,774.43,6
+2024-09-06,2024,9,North America,Mexico,Home,639.94,18
+2024-07-13,2024,7,Africa,South Africa,Home,3256.14,2
+2024-12-10,2024,12,North America,Canada,Home,2608.78,2
+2023-07-25,2023,7,Asia,Japan,Electronics,3151.76,19
+2023-04-21,2023,4,South America,Brazil,Clothing,3378.19,1
+2023-03-27,2023,3,North America,USA,Clothing,1789.2,17
+2024-05-03,2024,5,North America,Mexico,Home,3192.9,1
+2024-01-28,2024,1,Europe,Germany,Clothing,3697.37,14
+2024-01-12,2024,1,Asia,Japan,Home,2356.12,15
+2024-11-07,2024,11,North America,USA,Clothing,3060.2,1
+2023-10-05,2023,10,South America,Chile,Clothing,2068.52,14
+2024-08-27,2024,8,Europe,Italy,Electronics,4436.46,19
+2023-09-13,2023,9,Africa,Egypt,Clothing,1373.79,3
+2024-08-16,2024,8,Europe,Italy,Sports,2261.73,17
+2024-08-10,2024,8,South America,Brazil,Clothing,3735.79,11
+2023-07-24,2023,7,North America,USA,Electronics,899.99,7
+2024-04-10,2024,4,South America,Brazil,Clothing,3458.7,20
+2024-10-18,2024,10,Africa,Nigeria,Sports,4675.91,10
+2023-12-03,2023,12,Asia,India,Clothing,3808.17,8
+2024-02-07,2024,2,North America,USA,Clothing,453.62,12
+2023-08-04,2023,8,North America,Mexico,Electronics,234.85,16
+2023-04-14,2023,4,Africa,Nigeria,Clothing,4044.28,7
+2024-10-27,2024,10,Asia,China,Home,2700.54,8
+2024-07-17,2024,7,North America,USA,Clothing,1643.3,12
+2024-05-11,2024,5,North America,USA,Clothing,1166.42,12
+2024-06-05,2024,6,South America,Chile,Home,2229.72,17
+2023-03-06,2023,3,Europe,France,Sports,3518.4,14
+2024-03-02,2024,3,Europe,Germany,Home,307.6,17
+2023-05-25,2023,5,Europe,France,Sports,1597.09,17
+2023-01-11,2023,1,South America,Brazil,Electronics,3037.61,10
+2024-06-20,2024,6,Asia,India,Home,2170.54,12
+2023-09-07,2023,9,Africa,Nigeria,Sports,438.86,13
+2023-12-17,2023,12,North America,Canada,Electronics,4952.14,16
+2024-08-25,2024,8,North America,Canada,Electronics,2927.06,6
+2023-05-17,2023,5,Africa,South Africa,Home,4275.39,7
+2023-09-03,2023,9,Africa,Nigeria,Sports,1740.7,2
+2023-08-15,2023,8,Africa,South Africa,Clothing,2420.78,2
+2023-05-01,2023,5,Africa,Egypt,Electronics,759.72,16
+2024-07-01,2024,7,South America,Argentina,Clothing,556.96,3
+2024-09-19,2024,9,North America,USA,Electronics,1116.64,8
+2024-09-10,2024,9,South America,Argentina,Home,385.89,10
+2024-01-10,2024,1,North America,Canada,Home,656.49,3
+2023-01-03,2023,1,North America,Canada,Clothing,3141.4,1
+2023-02-20,2023,2,Asia,China,Sports,1791.04,4
+2023-08-02,2023,8,South America,Chile,Sports,372.54,7
+2024-01-04,2024,1,South America,Argentina,Sports,1860.46,13
+2024-10-16,2024,10,South America,Chile,Electronics,3896.08,16
+2023-04-11,2023,4,Africa,Egypt,Electronics,212.27,4
+2023-10-02,2023,10,South America,Argentina,Clothing,1084.39,14
+2024-02-21,2024,2,Asia,India,Sports,2720.42,10
+2024-10-21,2024,10,Europe,Italy,Clothing,448.99,12
+2023-01-24,2023,1,Asia,Japan,Sports,1105.8,10
+2023-02-08,2023,2,South America,Argentina,Electronics,1377.43,9
+2023-10-05,2023,10,Africa,Nigeria,Sports,165.79,17
+2024-04-26,2024,4,North America,Mexico,Sports,2077.18,2
+2024-07-16,2024,7,North America,Canada,Sports,995.75,15
+2023-09-01,2023,9,North America,USA,Clothing,3822.72,11
+2023-06-26,2023,6,South America,Brazil,Sports,1163.44,10
+2024-07-12,2024,7,Asia,India,Electronics,612.46,5
+2023-06-06,2023,6,Africa,South Africa,Clothing,3729.01,14
+2024-03-17,2024,3,Africa,South Africa,Home,184.0,15
+2024-05-16,2024,5,Asia,Japan,Home,2534.4,12
+2023-11-25,2023,11,Africa,Nigeria,Sports,4191.09,9
+2023-11-09,2023,11,Africa,Nigeria,Electronics,1756.87,1
+2023-11-26,2023,11,Africa,South Africa,Sports,2980.49,11
+2024-12-20,2024,12,Asia,China,Electronics,2754.4,11
+2023-07-18,2023,7,South America,Chile,Home,1815.51,19
+2024-06-02,2024,6,Asia,Japan,Clothing,595.99,1
+2024-09-26,2024,9,Africa,South Africa,Clothing,703.43,5
+2023-03-15,2023,3,South America,Argentina,Electronics,1574.8,6
+2023-05-15,2023,5,North America,Mexico,Electronics,2445.16,8
+2024-05-21,2024,5,Africa,Nigeria,Electronics,4887.38,5
+2023-05-11,2023,5,Asia,India,Electronics,2219.57,9
+2023-02-28,2023,2,Africa,South Africa,Home,4484.61,5
+2024-04-19,2024,4,Europe,Germany,Home,2442.22,7
+2024-05-25,2024,5,Europe,Italy,Electronics,4459.2,1
+2023-02-27,2023,2,Europe,France,Clothing,4466.28,7
+2023-02-11,2023,2,South America,Brazil,Sports,4441.09,14
+2023-01-12,2023,1,Asia,Japan,Sports,3482.98,4
+2024-12-27,2024,12,North America,Canada,Electronics,1779.19,8
+2023-03-07,2023,3,Africa,South Africa,Sports,3292.26,11
+2023-12-25,2023,12,Europe,France,Home,2571.3,14
+2023-12-03,2023,12,North America,USA,Electronics,262.12,2
+2023-01-03,2023,1,Asia,Japan,Electronics,1426.39,6
+2023-08-06,2023,8,Africa,Egypt,Electronics,3724.52,15
+2023-12-26,2023,12,Africa,South Africa,Home,4625.3,10
+2024-01-28,2024,1,South America,Chile,Electronics,4577.53,19
+2024-03-22,2024,3,Europe,Italy,Electronics,4796.16,20
+2023-02-20,2023,2,Africa,Nigeria,Electronics,4278.92,14
+2024-10-20,2024,10,Asia,Japan,Home,4290.37,13
+2023-08-26,2023,8,South America,Brazil,Sports,793.87,7
+2024-04-15,2024,4,Africa,Egypt,Home,1518.15,18
+2023-02-25,2023,2,South America,Chile,Sports,2987.7,16
+2023-06-15,2023,6,Asia,India,Clothing,4256.74,8
+2023-03-08,2023,3,Europe,Germany,Home,4047.13,1
+2024-12-27,2024,12,Africa,South Africa,Home,3854.98,18
+2024-10-19,2024,10,North America,Canada,Clothing,2995.53,12
+2024-12-03,2024,12,North America,Mexico,Electronics,2015.04,13
+2024-08-18,2024,8,Asia,Japan,Home,3671.1,6
+2023-04-12,2023,4,North America,Canada,Clothing,1249.02,19
+2024-06-13,2024,6,Asia,India,Electronics,2525.26,7
+2023-04-17,2023,4,North America,Canada,Clothing,2325.38,18
+2024-04-09,2024,4,Africa,Nigeria,Electronics,4051.24,5
+2023-02-22,2023,2,North America,Mexico,Sports,4696.44,6
+2023-08-24,2023,8,South America,Chile,Home,579.7,15
+2024-02-28,2024,2,Asia,India,Clothing,1473.54,14
+2023-02-19,2023,2,North America,Mexico,Sports,1112.68,10
+2024-08-20,2024,8,North America,Mexico,Clothing,4498.21,8
+2023-01-24,2023,1,North America,USA,Sports,1688.01,8
+2024-08-20,2024,8,Asia,Japan,Electronics,2257.36,19
+2024-07-28,2024,7,Asia,Japan,Electronics,4080.0,16
+2023-08-28,2023,8,South America,Argentina,Home,3578.37,8
+2024-04-20,2024,4,Europe,Germany,Clothing,3803.3,8
+2024-12-28,2024,12,Africa,South Africa,Clothing,1905.55,5
+2023-01-03,2023,1,Europe,Germany,Clothing,3838.57,12
+2023-07-15,2023,7,North America,Mexico,Clothing,1564.91,18
+2024-04-19,2024,4,North America,USA,Clothing,1103.49,2
+2024-12-12,2024,12,Europe,France,Sports,4886.69,14
+2024-05-15,2024,5,Africa,South Africa,Electronics,3301.09,6
+2023-04-08,2023,4,Africa,South Africa,Home,2079.34,5
+2024-05-12,2024,5,South America,Brazil,Home,947.25,18
+2023-10-13,2023,10,Asia,China,Electronics,3612.78,15
+2024-03-18,2024,3,North America,Canada,Clothing,4229.01,6
+2023-03-11,2023,3,South America,Chile,Clothing,959.85,2
+2024-04-26,2024,4,Africa,South Africa,Clothing,1392.45,15
+2023-08-17,2023,8,Africa,Nigeria,Home,1412.03,2
+2024-05-05,2024,5,Asia,India,Electronics,3293.67,17
+2023-04-17,2023,4,Europe,France,Home,1007.51,3
+2024-03-15,2024,3,Europe,Germany,Home,1152.95,17
+2023-11-09,2023,11,Africa,Egypt,Sports,2382.77,10
+2024-09-12,2024,9,North America,USA,Electronics,3031.94,14
+2024-02-03,2024,2,South America,Chile,Electronics,4909.42,17
+2024-03-24,2024,3,Asia,China,Electronics,3881.49,2
+2024-05-23,2024,5,Asia,Japan,Home,3666.0,18
+2023-03-28,2023,3,North America,Canada,Sports,2147.85,18
+2024-05-20,2024,5,Africa,Nigeria,Sports,2091.5,7
+2024-04-05,2024,4,North America,USA,Home,2482.56,8
+2024-07-27,2024,7,South America,Argentina,Electronics,406.03,3
+2024-01-27,2024,1,Asia,Japan,Home,727.22,20
+2024-02-08,2024,2,Europe,France,Clothing,1567.15,3
+2024-07-09,2024,7,North America,Mexico,Home,2906.88,10
+2023-07-09,2023,7,Europe,France,Electronics,1055.6,14
+2024-03-03,2024,3,Europe,Italy,Sports,998.77,1
+2024-03-17,2024,3,Africa,Egypt,Electronics,3069.82,7
+2024-12-01,2024,12,South America,Brazil,Home,1354.0,13
+2024-09-25,2024,9,North America,Mexico,Clothing,1465.52,5
+2023-10-08,2023,10,Europe,Italy,Sports,637.42,20
+2024-12-21,2024,12,Europe,Italy,Home,1534.6,3
+2024-08-12,2024,8,North America,Mexico,Clothing,2873.71,1
+2023-06-08,2023,6,South America,Argentina,Sports,1844.14,16
+2023-09-20,2023,9,Europe,Germany,Electronics,1453.95,15
+2024-06-03,2024,6,Europe,Italy,Clothing,4330.44,8
+2023-07-10,2023,7,North America,Mexico,Clothing,4752.13,2
+2024-08-11,2024,8,Europe,Italy,Sports,4023.75,13
+2023-11-03,2023,11,Europe,Germany,Home,218.44,15
+2023-06-04,2023,6,Europe,Italy,Electronics,991.84,1
+2023-09-17,2023,9,Asia,India,Electronics,1831.75,8
+2024-12-24,2024,12,Africa,Egypt,Home,2931.38,12
+2024-12-26,2024,12,Europe,France,Electronics,4460.34,5
+2024-07-28,2024,7,South America,Argentina,Sports,1823.29,12
+2023-08-17,2023,8,Europe,France,Home,3970.51,17
+2024-11-09,2024,11,North America,Canada,Electronics,2534.57,9
+2024-06-27,2024,6,Europe,Italy,Home,272.68,8
+2024-07-05,2024,7,Asia,India,Electronics,4713.06,4
+2024-09-07,2024,9,Africa,Nigeria,Electronics,1142.15,4
+2024-11-02,2024,11,Africa,South Africa,Sports,1282.31,18
+2024-02-13,2024,2,Asia,India,Clothing,3529.78,13
+2024-03-07,2024,3,South America,Brazil,Sports,4643.24,1
+2024-03-23,2024,3,Asia,China,Sports,1439.73,20
+2023-12-06,2023,12,Asia,China,Electronics,3978.97,1
+2023-06-15,2023,6,Africa,Egypt,Sports,4288.04,5
+2023-06-27,2023,6,Asia,Japan,Clothing,324.31,20
+2024-12-19,2024,12,Asia,Japan,Home,3373.56,13
+2024-11-11,2024,11,North America,Mexico,Clothing,1166.37,13
+2024-12-27,2024,12,Africa,Nigeria,Home,1498.88,4
+2023-10-12,2023,10,Africa,South Africa,Electronics,806.21,1
+2024-11-09,2024,11,Europe,Italy,Sports,4808.4,4
+2024-05-17,2024,5,Africa,Egypt,Electronics,1772.76,12
+2024-07-16,2024,7,North America,Mexico,Clothing,1690.11,11
+2024-10-06,2024,10,Africa,Nigeria,Sports,3999.34,1
+2024-01-03,2024,1,Asia,India,Clothing,416.43,10
+2023-05-05,2023,5,Africa,Nigeria,Clothing,1377.95,1
+2023-02-17,2023,2,Africa,South Africa,Clothing,2812.81,17
+2024-01-06,2024,1,North America,Canada,Electronics,238.48,4
+2023-06-08,2023,6,Africa,Nigeria,Clothing,4061.71,5
+2023-04-24,2023,4,Africa,Egypt,Clothing,2960.31,10
+2024-06-08,2024,6,Africa,Egypt,Clothing,668.87,6
+2024-10-13,2024,10,Europe,Germany,Electronics,4674.6,2
+2023-12-05,2023,12,Africa,South Africa,Sports,4228.31,18
+2023-03-21,2023,3,Africa,Egypt,Clothing,1854.96,16
+2023-10-07,2023,10,South America,Argentina,Electronics,4119.36,20
+2023-07-21,2023,7,Asia,Japan,Electronics,2971.94,12
+2024-04-18,2024,4,Africa,Egypt,Clothing,1035.19,2
+2023-06-08,2023,6,Europe,France,Home,1342.84,15
+2023-11-14,2023,11,North America,Mexico,Sports,4078.41,10
+2024-07-15,2024,7,Asia,India,Home,1222.43,11
+2023-01-11,2023,1,Africa,Egypt,Clothing,352.55,20
+2023-01-28,2023,1,Africa,South Africa,Clothing,3611.77,7
+2023-03-05,2023,3,South America,Argentina,Sports,2436.45,13
+2024-04-18,2024,4,Asia,India,Electronics,4567.93,9
+2024-12-01,2024,12,Asia,China,Clothing,2532.77,8
+2023-10-11,2023,10,Europe,France,Home,2471.13,16
+2023-06-08,2023,6,Africa,South Africa,Home,2393.95,1
+2024-10-12,2024,10,Asia,China,Home,3930.82,17
+2023-04-13,2023,4,Africa,Egypt,Electronics,4525.18,16
+2023-10-02,2023,10,Asia,China,Sports,4263.81,15
+2024-04-03,2024,4,South America,Chile,Electronics,592.21,16
+2023-09-05,2023,9,North America,Mexico,Sports,259.77,5
+2023-01-24,2023,1,North America,USA,Electronics,2753.86,16
+2023-12-24,2023,12,Europe,France,Clothing,2381.31,13
+2023-05-23,2023,5,Europe,Germany,Clothing,1522.65,6
+2023-12-24,2023,12,North America,USA,Home,4644.03,13
+2024-09-25,2024,9,Asia,China,Clothing,3951.51,3
+2023-09-03,2023,9,Asia,India,Sports,1815.93,13
+2023-12-21,2023,12,Asia,Japan,Home,3297.46,20
+2023-04-08,2023,4,North America,USA,Home,1431.07,15
+2024-06-13,2024,6,Asia,China,Home,4090.29,18
+2023-08-02,2023,8,South America,Brazil,Clothing,4697.73,8
+2023-12-19,2023,12,Europe,Italy,Sports,2453.77,4
+2024-04-18,2024,4,North America,USA,Home,2016.38,10
+2024-01-23,2024,1,Europe,France,Clothing,3614.99,9
+2024-01-28,2024,1,Asia,China,Sports,1107.61,19
+2024-05-27,2024,5,Africa,Egypt,Clothing,2325.9,14
+2023-10-05,2023,10,Europe,Italy,Sports,4972.54,7
+2023-07-21,2023,7,Asia,China,Home,1661.26,2
+2024-08-05,2024,8,North America,Canada,Electronics,3290.48,1
+2024-09-20,2024,9,Asia,Japan,Clothing,1236.99,10
+2023-03-20,2023,3,North America,Canada,Electronics,2701.68,4
+2023-12-16,2023,12,Europe,France,Home,745.25,12
+2023-05-26,2023,5,North America,USA,Clothing,3486.52,8
+2024-05-02,2024,5,North America,Canada,Home,1442.02,10
+2024-08-22,2024,8,Europe,Italy,Sports,3243.13,16
+2024-02-17,2024,2,Africa,Nigeria,Home,3122.13,13
+2023-08-15,2023,8,Africa,Egypt,Clothing,2616.78,4
+2023-10-27,2023,10,North America,Canada,Clothing,1351.62,12
+2024-04-26,2024,4,South America,Argentina,Clothing,2758.21,20
+2023-01-10,2023,1,Asia,China,Electronics,1304.04,20
+2023-07-17,2023,7,Asia,Japan,Home,3370.27,20
+2023-03-03,2023,3,Europe,France,Electronics,872.93,1
+2023-01-15,2023,1,Europe,Germany,Electronics,4740.13,8
+2024-11-02,2024,11,Africa,Nigeria,Electronics,2995.37,4
+2024-09-02,2024,9,Africa,Nigeria,Clothing,2377.32,8
+2023-11-06,2023,11,North America,Canada,Clothing,851.18,15
+2023-12-12,2023,12,Africa,South Africa,Sports,3388.81,11
+2023-01-16,2023,1,Africa,South Africa,Sports,158.23,10
+2023-03-19,2023,3,Europe,Italy,Sports,534.18,4
+2023-09-21,2023,9,Africa,Nigeria,Clothing,3408.03,3
+2023-09-25,2023,9,North America,Canada,Clothing,2548.32,12
+2024-04-15,2024,4,Asia,China,Home,727.64,17
+2023-06-02,2023,6,Africa,South Africa,Sports,1085.06,13
+2023-03-03,2023,3,South America,Argentina,Home,846.11,6
+2023-07-05,2023,7,South America,Chile,Sports,2620.87,20
+2023-02-28,2023,2,Europe,France,Sports,343.66,5
+2023-08-01,2023,8,Europe,Germany,Electronics,3638.63,9
+2023-07-17,2023,7,Asia,India,Sports,2139.26,8
+2024-07-10,2024,7,Africa,Egypt,Clothing,1304.62,6
+2023-09-24,2023,9,Europe,Germany,Sports,4493.21,19
+2023-01-08,2023,1,North America,Canada,Electronics,1495.68,7
+2024-05-16,2024,5,South America,Argentina,Clothing,1928.27,8
+2023-04-11,2023,4,North America,Mexico,Home,4574.31,14
+2023-07-24,2023,7,Europe,Italy,Clothing,1666.43,10
+2024-09-03,2024,9,Africa,South Africa,Electronics,1380.47,9
+2023-10-08,2023,10,Africa,Egypt,Home,1543.12,3
+2024-11-22,2024,11,Africa,Egypt,Electronics,791.27,12
+2023-02-14,2023,2,Africa,Egypt,Electronics,708.64,3
+2023-07-07,2023,7,Africa,South Africa,Electronics,2677.65,19
+2024-05-18,2024,5,Asia,Japan,Electronics,3776.05,18
+2023-06-25,2023,6,Asia,India,Clothing,1032.3,18
+2023-05-02,2023,5,Europe,Germany,Clothing,789.48,18
+2023-04-28,2023,4,Europe,Italy,Home,1306.48,3
+2023-08-19,2023,8,Africa,South Africa,Clothing,3558.69,14
+2023-09-17,2023,9,Europe,Germany,Clothing,3385.06,20
+2023-08-12,2023,8,Asia,China,Home,3452.99,8
+2023-10-28,2023,10,North America,Canada,Home,537.03,2
+2024-10-13,2024,10,Africa,South Africa,Home,1407.88,5
+2023-06-06,2023,6,Africa,South Africa,Home,3456.45,7
+2024-02-25,2024,2,Africa,Egypt,Electronics,895.78,13
+2024-08-14,2024,8,Europe,France,Sports,1007.48,11
+2023-05-27,2023,5,Asia,Japan,Home,4585.16,11
+2023-06-08,2023,6,Europe,Italy,Clothing,314.28,19
+2023-11-23,2023,11,South America,Argentina,Clothing,4620.51,17
+2023-10-06,2023,10,Europe,France,Home,636.44,2
+2023-03-15,2023,3,Africa,South Africa,Clothing,270.3,20
+2024-01-18,2024,1,Africa,Egypt,Clothing,1936.15,19
+2024-03-01,2024,3,Africa,Nigeria,Clothing,1496.63,7
+2024-11-10,2024,11,Asia,Japan,Electronics,2875.09,12
+2024-01-25,2024,1,South America,Chile,Clothing,3691.11,14
+2024-08-01,2024,8,South America,Brazil,Home,816.35,5
+2024-10-06,2024,10,South America,Brazil,Home,1246.2,1
+2023-04-16,2023,4,North America,USA,Sports,3035.38,9
+2023-12-12,2023,12,Europe,Germany,Clothing,420.91,17
+2024-10-11,2024,10,Asia,Japan,Electronics,763.19,5
+2023-06-14,2023,6,Europe,Germany,Sports,1364.97,17
+2023-06-13,2023,6,Africa,Nigeria,Home,557.48,1
+2024-01-02,2024,1,North America,Canada,Home,3211.92,7
+2023-07-17,2023,7,Africa,Egypt,Home,620.86,3
+2023-04-28,2023,4,South America,Brazil,Electronics,4590.7,4
+2024-05-22,2024,5,Asia,India,Clothing,4030.33,14
